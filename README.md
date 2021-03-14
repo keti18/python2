@@ -1,4 +1,4 @@
-#python 2nd სsemester
+#python 2nd semester
 class Rectangle:
     def __init__(self, width=30, height=10):
 
